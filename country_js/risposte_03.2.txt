@@ -1,0 +1,3 @@
+1) req.params.variabile
+2) passando una variabile all'url con ? var=valore
+3) country.info()
